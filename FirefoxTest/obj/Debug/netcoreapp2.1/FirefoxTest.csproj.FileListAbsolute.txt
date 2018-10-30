@@ -1,0 +1,17 @@
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\FirefoxTest.deps.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\FirefoxTest.runtimeconfig.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\FirefoxTest.runtimeconfig.dev.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\FirefoxTest.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.csprojAssemblyReference.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.csproj.CoreCompileInputs.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.AssemblyInfoInputs.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.AssemblyInfo.cs
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\FirefoxTest.pdb
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\paralleluitestwithseleniuminvisualstudio.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\bin\Debug\netcoreapp2.1\paralleluitestwithseleniuminvisualstudio.pdb
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.csproj.CopyComplete
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\FirefoxTest\obj\Debug\netcoreapp2.1\FirefoxTest.pdb

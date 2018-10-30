@@ -1,0 +1,17 @@
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\ChromeTest.deps.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\ChromeTest.runtimeconfig.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\ChromeTest.runtimeconfig.dev.json
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\ChromeTest.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.csprojAssemblyReference.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.csproj.CoreCompileInputs.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.AssemblyInfoInputs.cache
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.AssemblyInfo.cs
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\ChromeTest.pdb
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\paralleluitestwithseleniuminvisualstudio.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\bin\Debug\netcoreapp2.1\paralleluitestwithseleniuminvisualstudio.pdb
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.csproj.CopyComplete
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.dll
+C:\Practice\paralleluitestwithseleniuminvisualstudio\ChromeTest\obj\Debug\netcoreapp2.1\ChromeTest.pdb
