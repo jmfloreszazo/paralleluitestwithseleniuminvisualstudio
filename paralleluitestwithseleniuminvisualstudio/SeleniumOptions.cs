@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using OpenQA.Selenium;
 
 namespace paralleluitestwithseleniuminvisualstudio
 {
@@ -9,7 +6,6 @@ namespace paralleluitestwithseleniuminvisualstudio
     {
         public string Host { get; set; }
         public int Port { get; set; }
-        public string BrowserName { get; set; }
         public Uri WebDriverUri
         {
             get

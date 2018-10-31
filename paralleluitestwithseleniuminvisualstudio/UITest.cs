@@ -13,6 +13,7 @@ namespace paralleluitestwithseleniuminvisualstudio
     {
         protected IWebDriver WebDriver;
         protected DriverOptions Options;
+        protected Uri remoteServer;
 
         public UITest(DriverOptions options)
         {
@@ -30,6 +31,9 @@ namespace paralleluitestwithseleniuminvisualstudio
 
             var seleniumOptions = new SeleniumOptions();
             configuration.Bind("SeleniumDockerHost", seleniumOptions);
+            var azureOptions = new AzureOptions();
+            configuration.Bind("AzureDevHost", azureOptions);
+            this.remoteServer = azureOptions.DevServerUri;
             this.WebDriver = new RemoteWebDriver(seleniumOptions.WebDriverUri, this.Options);
             this.WebDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
         }
@@ -55,12 +59,12 @@ namespace paralleluitestwithseleniuminvisualstudio
         {
             string imageFile = "c:\\temp\\Shoud_I_Test_My_WebApp" + this.Options.BrowserName + "_#.png";
             int stopValue = 10;            
-            WebDriver.Navigate().GoToUrl("http://localhost:8000");
-            ((ITakesScreenshot)WebDriver).GetScreenshot().SaveAsFile(imageFile.Replace("#", "1"), ScreenshotImageFormat.Png);
+            WebDriver.Navigate().GoToUrl(this.remoteServer);
+            ((ITakesScreenshot)WebDriver).GetScreenshot().SaveAsFile(imageFile.Replace("#", "0"), ScreenshotImageFormat.Png);
             WebDriver.TakeScreenshot();
             for (int i = 1; i <= stopValue; i++)
             {
-                ((ITakesScreenshot)WebDriver).GetScreenshot().SaveAsFile(imageFile.Replace("#", "2"), ScreenshotImageFormat.Png);
+                ((ITakesScreenshot)WebDriver).GetScreenshot().SaveAsFile(imageFile.Replace("#", i.ToString()), ScreenshotImageFormat.Png);
                 IWebElement elem = WebDriver.FindElement(By.Id("buttonCounter"));
                 elem.Click();
             }
